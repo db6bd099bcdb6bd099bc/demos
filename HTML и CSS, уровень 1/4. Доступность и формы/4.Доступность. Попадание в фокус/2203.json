@@ -1,0 +1,237 @@
+{
+    "v": 0.1,
+    "active_step": 0,
+    "name": "",
+    "preview_type": 0,
+    "steps": [
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u044c: \u043f\u043e\u043f\u0430\u0434\u0430\u043d\u0438\u0435 \u0432 \u0444\u043e\u043a\u0443\u0441<\/title>\n  <\/head>\n  <body>\n\n  \t<button class=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 1\n  \t<\/button>\n\n  \t<div class=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 2\n  \t<\/div>\n\n  <\/body>\n<\/html>",
+                "css": "body {\n  padding: 80px 100px;\n\tfont-family: sans-serif;\n}"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 17,
+                            "column": 7
+                        },
+                        "end": {
+                            "row": 17,
+                            "column": 7
+                        }
+                    }
+                ],
+                "css": [
+                    {
+                        "start": {
+                            "row": 3,
+                            "column": 1
+                        },
+                        "end": {
+                            "row": 3,
+                            "column": 1
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 1,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u044c: \u043f\u043e\u043f\u0430\u0434\u0430\u043d\u0438\u0435 \u0432 \u0444\u043e\u043a\u0443\u0441<\/title>\n  <\/head>\n  <body>\n\n  \t<button class=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 1\n  \t<\/button>\n\n  \t<div class=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 2\n  \t<\/div>\n\n  <\/body>\n<\/html>",
+                "css": "body {\n  padding: 80px 100px;\n\tfont-family: sans-serif;\n}\n\n.button {\n\tdisplay: inline-block;\n\tmargin: 20px;\n\tpadding: 10px 20px;\n\n\tborder-radius: 40px;\n\tborder: 3px solid #afafaf;\n\tbackground: linear-gradient(white, lightgrey);\n\tcolor: #585a5e;\n\n\tfont: inherit;\n}"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 17,
+                            "column": 7
+                        },
+                        "end": {
+                            "row": 17,
+                            "column": 7
+                        }
+                    }
+                ],
+                "css": [
+                    {
+                        "start": {
+                            "row": 16,
+                            "column": 1
+                        },
+                        "end": {
+                            "row": 16,
+                            "column": 1
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 1,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u044c: \u043f\u043e\u043f\u0430\u0434\u0430\u043d\u0438\u0435 \u0432 \u0444\u043e\u043a\u0443\u0441<\/title>\n  <\/head>\n  <body>\n\n  \t<button class=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 1\n  \t<\/button>\n\n  \t<div class=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 2\n  \t<\/div>\n\n  <\/body>\n<\/html>",
+                "css": "body {\n  padding: 80px 100px;\n\tfont-family: sans-serif;\n}\n\n.button {\n\tdisplay: inline-block;\n\tmargin: 20px;\n\tpadding: 10px 20px;\n\n\tborder-radius: 40px;\n\tborder: 3px solid #afafaf;\n\tbackground: linear-gradient(white, lightgrey);\n\tcolor: #585a5e;\n\n\tfont: inherit;\n}\n\n.button:focus {\n\toutline: none;\n\tbox-shadow:\n\t\t0 0 0 3px #fff,\n\t\t0 0 0 6px #2f7cc0;\n}"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 17,
+                            "column": 7
+                        },
+                        "end": {
+                            "row": 17,
+                            "column": 7
+                        }
+                    }
+                ],
+                "css": [
+                    {
+                        "start": {
+                            "row": 18,
+                            "column": 8
+                        },
+                        "end": {
+                            "row": 18,
+                            "column": 13
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 1,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u044c: \u043f\u043e\u043f\u0430\u0434\u0430\u043d\u0438\u0435 \u0432 \u0444\u043e\u043a\u0443\u0441<\/title>\n  <\/head>\n  <body>\n\n  \t<button class=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 1\n  \t<\/button>\n\n  \t<div class=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 2\n  \t<\/div>\n\n  <\/body>\n<\/html>",
+                "css": "body {\n  padding: 80px 100px;\n\tfont-family: sans-serif;\n}\n\n.button {\n\tdisplay: inline-block;\n\tmargin: 20px;\n\tpadding: 10px 20px;\n\n\tborder-radius: 40px;\n\tborder: 3px solid #afafaf;\n\tbackground: linear-gradient(white, lightgrey);\n\tcolor: #585a5e;\n\n\tfont: inherit;\n}\n\n.button:focus {\n\toutline: none;\n\tbox-shadow:\n\t\t0 0 0 3px #fff,\n\t\t0 0 0 6px #2f7cc0;\n}\n\n.button:active {\n\tborder-color: #4777a6;\n\tbackground: #4e87c0;\n\tcolor: #fff;\n}"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 4,
+                            "column": 41
+                        },
+                        "end": {
+                            "row": 4,
+                            "column": 41
+                        }
+                    }
+                ],
+                "css": [
+                    {
+                        "start": {
+                            "row": 25,
+                            "column": 8
+                        },
+                        "end": {
+                            "row": 25,
+                            "column": 14
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u044c: \u043f\u043e\u043f\u0430\u0434\u0430\u043d\u0438\u0435 \u0432 \u0444\u043e\u043a\u0443\u0441<\/title>\n  <\/head>\n  <body>\n\n  \t<button class=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 1\n  \t<\/button>\n\n  \t<div class=\"button\" tabindex=\"0\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 2\n  \t<\/div>\n\n  <\/body>\n<\/html>",
+                "css": "body {\n  padding: 80px 100px;\n\tfont-family: sans-serif;\n}\n\n.button {\n\tdisplay: inline-block;\n\tmargin: 20px;\n\tpadding: 10px 20px;\n\n\tborder-radius: 40px;\n\tborder: 3px solid #afafaf;\n\tbackground: linear-gradient(white, lightgrey);\n\tcolor: #585a5e;\n\n\tfont: inherit;\n}\n\n.button:focus {\n\toutline: none;\n\tbox-shadow:\n\t\t0 0 0 3px #fff,\n\t\t0 0 0 6px #2f7cc0;\n}\n\n.button:active {\n\tborder-color: #4777a6;\n\tbackground: #4e87c0;\n\tcolor: #fff;\n}"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 12,
+                            "column": 23
+                        },
+                        "end": {
+                            "row": 12,
+                            "column": 35
+                        }
+                    }
+                ],
+                "css": [
+                    {
+                        "start": {
+                            "row": 22,
+                            "column": 11
+                        },
+                        "end": {
+                            "row": 22,
+                            "column": 11
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u044c: \u043f\u043e\u043f\u0430\u0434\u0430\u043d\u0438\u0435 \u0432 \u0444\u043e\u043a\u0443\u0441<\/title>\n  <\/head>\n  <body>\n\n  \t<button class=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 1\n  \t<\/button>\n\n  \t<div class=\"button\" tabindex=\"0\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 2\n  \t<\/div>\n\n  \t<div class=\"button\" tabindex=\"-1\" id=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 3\n  \t<\/div>\n\n  \t<button class=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 4\n  \t<\/button>\n\n  <\/body>\n<\/html>",
+                "css": "body {\n  padding: 80px 100px;\n\tfont-family: sans-serif;\n}\n\n.button {\n\tdisplay: inline-block;\n\tmargin: 20px;\n\tpadding: 10px 20px;\n\n\tborder-radius: 40px;\n\tborder: 3px solid #afafaf;\n\tbackground: linear-gradient(white, lightgrey);\n\tcolor: #585a5e;\n\n\tfont: inherit;\n}\n\n.button:focus {\n\toutline: none;\n\tbox-shadow:\n\t\t0 0 0 3px #fff,\n\t\t0 0 0 6px #2f7cc0;\n}\n\n.button:active {\n\tborder-color: #4777a6;\n\tbackground: #4e87c0;\n\tcolor: #fff;\n}",
+                "js": "\/\/ document.getElementById('button').focus();"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 16,
+                            "column": 23
+                        },
+                        "end": {
+                            "row": 16,
+                            "column": 36
+                        }
+                    }
+                ],
+                "css": [
+                    {
+                        "start": {
+                            "row": 22,
+                            "column": 11
+                        },
+                        "end": {
+                            "row": 22,
+                            "column": 11
+                        }
+                    }
+                ],
+                "js": [
+                    {
+                        "start": {
+                            "row": 0,
+                            "column": 42
+                        },
+                        "end": {
+                            "row": 0,
+                            "column": 42
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        }
+    ]
+}

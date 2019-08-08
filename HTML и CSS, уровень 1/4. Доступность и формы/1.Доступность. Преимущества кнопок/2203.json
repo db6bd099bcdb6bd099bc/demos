@@ -1,0 +1,93 @@
+{
+    "v": 0.1,
+    "active_step": 1,
+    "name": "",
+    "preview_type": 0,
+    "steps": [
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u044c: \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430 \u043a\u043d\u043e\u043f\u043e\u043a<\/title>\n  <\/head>\n  <body>\n\n  \t<button class=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 1\n  \t<\/button>\n  \n  \t<div class=\"button\" tabindex=\"0\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 2\n  \t<\/div>\n\n  <\/body>\n<\/html>\n",
+                "css": "body {\n  padding: 80px 100px;\n\tfont-family: sans-serif;\n}\n\n.button {\n\tdisplay: inline-block;\n\tmargin: 20px;\n\tpadding: 10px 20px;\n\n\tborder-radius: 40px;\n\tborder: 3px solid #afafaf;\n\tbackground: linear-gradient(white, lightgrey);\n\tcolor: #585a5e;\n\n\tfont: inherit;\n}\n\n.button:focus {\n\toutline: none;\n\tbox-shadow:\n\t\t0 0 0 3px #fff,\n\t\t0 0 0 6px #2f7cc0;\n}\n\n.button:active {\n\tborder-color: #4777a6;\n\tbackground: #4e87c0;\n\tcolor: #fff;\n}"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 12,
+                            "column": 23
+                        },
+                        "end": {
+                            "row": 12,
+                            "column": 35
+                        }
+                    }
+                ],
+                "css": [
+                    {
+                        "start": {
+                            "row": 11,
+                            "column": 12
+                        },
+                        "end": {
+                            "row": 11,
+                            "column": 12
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u044c: \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430 \u043a\u043d\u043e\u043f\u043e\u043a<\/title>\n  <\/head>\n  <body>\n\n  \t<button class=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 1\n  \t<\/button>\n  \n  \t<div class=\"button\" tabindex=\"0\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 2\n  \t<\/div>\n\n  \t<button class=\"button\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 3\n  \t<\/button>\n  \n  \t<div class=\"button\" tabindex=\"0\">\n  \t\t\u041a\u043d\u043e\u043f\u043a\u0430 4\n  \t<\/div>\n\n  <\/body>\n<\/html>\n",
+                "css": "body {\n  padding: 80px 100px;\n\tfont-family: sans-serif;\n}\n\n.button {\n\tdisplay: inline-block;\n\tmargin: 20px;\n\tpadding: 10px 20px;\n\n\tborder-radius: 40px;\n\tborder: 3px solid #afafaf;\n\tbackground: linear-gradient(white, lightgrey);\n\tcolor: #585a5e;\n\n\tfont: inherit;\n}\n\n.button:focus {\n\toutline: none;\n\tbox-shadow:\n\t\t0 0 0 3px #fff,\n\t\t0 0 0 6px #2f7cc0;\n}\n\n.button:active {\n\tborder-color: #4777a6;\n\tbackground: #4e87c0;\n\tcolor: #fff;\n}\n\n.button:disabled {\n\tborder-color: lightgrey;\n\tbackground: linear-gradient(lightgrey, white);\n}",
+                "js": "var buttons = document.querySelectorAll('.button');\n\nfor(var i = 0; i < buttons.length; i++) {\n  buttons[i].addEventListener('click', function() {\n  \tthis.disabled = true;\n  });\n}\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 4,
+                            "column": 43
+                        },
+                        "end": {
+                            "row": 4,
+                            "column": 43
+                        }
+                    }
+                ],
+                "css": [
+                    {
+                        "start": {
+                            "row": 31,
+                            "column": 8
+                        },
+                        "end": {
+                            "row": 31,
+                            "column": 16
+                        }
+                    }
+                ],
+                "js": [
+                    {
+                        "start": {
+                            "row": 7,
+                            "column": 0
+                        },
+                        "end": {
+                            "row": 7,
+                            "column": 0
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        }
+    ]
+}

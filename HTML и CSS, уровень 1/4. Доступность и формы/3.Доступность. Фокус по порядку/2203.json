@@ -1,0 +1,152 @@
+{
+    "v": 0.1,
+    "active_step": 3,
+    "name": "",
+    "preview_type": 0,
+    "steps": [
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u044c: \u0444\u043e\u043a\u0443\u0441 \u043f\u043e \u043f\u043e\u0440\u044f\u0434\u043a\u0443<\/title>\n  <\/head>\n  <body>\n\n  \t<nav>\n  \t\t<a href=\"\">\u0411\u0443\u0440\u044f<\/a>\n  \t\t<a href=\"\">\u041c\u0433\u043b\u043e\u044e<\/a>\n  \t\t<a href=\"\">\u041d\u0435\u0431\u043e<\/a>\n  \t\t<a href=\"\">\u041a\u0440\u043e\u0435\u0442<\/a>\n  \t<\/nav>\n\n  <\/body>\n<\/html>",
+                "css": "body {\n  padding: 80px 100px;\n\tfont-family: sans-serif;\n}\n\na {\n\tfloat: left;\n\tpadding: 20px 0;\n\twidth: 25%;\n\tbackground: #21ae12;\n\tcolor: white;\n\ttext-align: center;\n\ttext-decoration: none;\n}\n\na:hover {\n  background: #ee5b33;\n}"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 16,
+                            "column": 7
+                        },
+                        "end": {
+                            "row": 16,
+                            "column": 7
+                        }
+                    }
+                ],
+                "css": [
+                    {
+                        "start": {
+                            "row": 17,
+                            "column": 1
+                        },
+                        "end": {
+                            "row": 17,
+                            "column": 1
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 1,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u044c: \u0444\u043e\u043a\u0443\u0441 \u043f\u043e \u043f\u043e\u0440\u044f\u0434\u043a\u0443<\/title>\n  <\/head>\n  <body>\n\n  \t<nav>\n  \t\t<a href=\"\">\u0411\u0443\u0440\u044f<\/a>\n  \t\t<a href=\"\">\u041c\u0433\u043b\u043e\u044e<\/a>\n  \t\t<a href=\"\">\u041d\u0435\u0431\u043e<\/a>\n  \t\t<a href=\"\">\u041a\u0440\u043e\u0435\u0442<\/a>\n  \t<\/nav>\n\n  <\/body>\n<\/html>",
+                "css": "body {\n  padding: 80px 100px;\n\tfont-family: sans-serif;\n}\n\na {\n\tfloat: left;\n\tpadding: 20px 0;\n\twidth: 25%;\n\tbackground: #21ae12;\n\tcolor: white;\n\ttext-align: center;\n\ttext-decoration: none;\n}\n\na:hover {\n  background: #ee5b33;\n}\n\na:focus {\n  outline: none;\n}"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 16,
+                            "column": 7
+                        },
+                        "end": {
+                            "row": 16,
+                            "column": 7
+                        }
+                    }
+                ],
+                "css": [
+                    {
+                        "start": {
+                            "row": 19,
+                            "column": 2
+                        },
+                        "end": {
+                            "row": 19,
+                            "column": 7
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 1,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u044c: \u0444\u043e\u043a\u0443\u0441 \u043f\u043e \u043f\u043e\u0440\u044f\u0434\u043a\u0443<\/title>\n  <\/head>\n  <body>\n\n  \t<nav>\n  \t\t<a href=\"\">\u0411\u0443\u0440\u044f<\/a>\n  \t\t<a href=\"\">\u041c\u0433\u043b\u043e\u044e<\/a>\n  \t\t<a href=\"\">\u041d\u0435\u0431\u043e<\/a>\n  \t\t<a href=\"\">\u041a\u0440\u043e\u0435\u0442<\/a>\n  \t<\/nav>\n\n  <\/body>\n<\/html>",
+                "css": "body {\n  padding: 80px 100px;\n\tfont-family: sans-serif;\n}\n\na {\n\tfloat: left;\n\tpadding: 20px 0;\n\twidth: 25%;\n\tbackground: #21ae12;\n\tcolor: white;\n\ttext-align: center;\n\ttext-decoration: none;\n}\n\na:hover,\na:focus {\n  background: #ee5b33;\n}\n\na:focus {\n  outline: none;\n}"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 16,
+                            "column": 7
+                        },
+                        "end": {
+                            "row": 16,
+                            "column": 7
+                        }
+                    }
+                ],
+                "css": [
+                    {
+                        "start": {
+                            "row": 16,
+                            "column": 2
+                        },
+                        "end": {
+                            "row": 16,
+                            "column": 7
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 1,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0424\u043e\u043a\u0443\u0441 \u043f\u043e \u043f\u043e\u0440\u044f\u0434\u043a\u0443<\/title>\n  <\/head>\n  <body>\n\n  \t<nav>\n  \t\t<a href=\"\">\u0411\u0443\u0440\u044f<\/a>\n  \t\t<a href=\"\">\u041c\u0433\u043b\u043e\u044e<\/a>\n  \t\t<a href=\"\">\u041d\u0435\u0431\u043e<\/a>\n  \t\t<a href=\"\">\u041a\u0440\u043e\u0435\u0442<\/a>\n  \t<\/nav>\n\n  <\/body>\n<\/html>",
+                "css": "body {\n  padding: 80px 100px;\n\tfont-family: sans-serif;\n}\n\na {\n\tfloat: left;\n\tpadding: 20px 0;\n\twidth: 25%;\n\tbackground: #21ae12;\n\tcolor: white;\n\ttext-align: center;\n\ttext-decoration: none;\n}\n\na:hover,\na:focus {\n  background: #ee5b33;\n}\n\na:focus {\n  outline: none;\n}\n\na:first-child {\n  float: right;\n}"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 16,
+                            "column": 7
+                        },
+                        "end": {
+                            "row": 16,
+                            "column": 7
+                        }
+                    }
+                ],
+                "css": [
+                    {
+                        "start": {
+                            "row": 25,
+                            "column": 9
+                        },
+                        "end": {
+                            "row": 25,
+                            "column": 14
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        }
+    ]
+}

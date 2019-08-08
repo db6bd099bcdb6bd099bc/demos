@@ -1,0 +1,77 @@
+{
+    "v": 0.1,
+    "active_step": 0,
+    "name": "",
+    "preview_type": 0,
+    "steps": [
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title><\/title>\n  <\/head>\n  <body>\n    <h1>\u041b\u043e\u0433\u0438\u043d<\/h1>\n    <form class=\"user\" method=\"post\"\n          action=\"https:\/\/echo.htmlacademy.ru\">\n      <p>\n        <label for=\"user-login\">\u041b\u043e\u0433\u0438\u043d<\/label>\n        <input id=\"user-login\" type=\"text\"\n               name=\"login\" placeholder=\"\u041b\u043e\u0433\u0438\u043d\">\n      <\/p>\n      <p>\n        <label for=\"user-password\">\u041f\u0430\u0440\u043e\u043b\u044c<\/label>\n        <input id=\"user-password\" type=\"password\"\n               name=\"password\" placeholder=\"\u041f\u0430\u0440\u043e\u043b\u044c\">\n      <\/p>\n      <p>\n        <label>\n          <input type=\"checkbox\" name=\"remember\">\n          \u0417\u0430\u043f\u043e\u043c\u043d\u0438\u0442\u0435 \u043c\u0435\u043d\u044f\n        <\/label>\n      <\/p>\n      <button type=\"submit\">\u0412\u043e\u0439\u0442\u0438<\/button>\n    <\/form>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 30,
+                            "column": 0
+                        },
+                        "end": {
+                            "row": 30,
+                            "column": 0
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title><\/title>\n  <\/head>\n  <body>\n    <h1>\u041a\u0430\u0442\u0430\u043b\u043e\u0433<\/h1>\n    <form class=\"filter\" method=\"get\"\n          action=\"https:\/\/echo.htmlacademy.ru\">\n      <fieldset>\n        <legend>\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0438:<\/legend>\n        <ul>\n          <li>\n            <input type=\"checkbox\" name=\"baxter-of-california\" id=\"filter-baxter-of-california\" checked>\n            <label for=\"filter-baxter-of-california\">\n              Baxter of California\n            <\/label>\n          <\/li>\n          <li>\n            <input type=\"checkbox\" name=\"mr-natty\" id=\"filter-mr-natty\">\n            <label for=\"filter-mr-natty\">\n              Mr Natty\n            <\/label>\n          <\/li>\n          <li>\n            <input type=\"checkbox\" name=\"suavecito\" id=\"filter-suavecito\" checked>\n            <label for=\"filter-suavecito\">\n              Suavecito\n            <\/label>\n          <\/li>\n        <\/ul>\n      <\/fieldset>\n      <button type=\"submit\">\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u044c<\/button>\n    <\/form>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 32,
+                            "column": 17
+                        },
+                        "end": {
+                            "row": 32,
+                            "column": 17
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title><\/title>\n  <\/head>\n  <body>\n    <h1>\u041a\u0430\u0442\u0430\u043b\u043e\u0433<\/h1>\n    <form class=\"filter\" method=\"get\"\n          action=\"https:\/\/echo.htmlacademy.ru\">\n      <fieldset>\n        <legend>\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0438:<\/legend>\n        <ul>\n          <li>\n            <input type=\"checkbox\" name=\"baxter-of-california\" id=\"filter-baxter-of-california\" checked>\n            <label for=\"filter-baxter-of-california\">\n              Baxter of California\n            <\/label>\n          <\/li>\n          <li>\n            <input type=\"checkbox\" name=\"mr-natty\" id=\"filter-mr-natty\">\n            <label for=\"filter-mr-natty\">\n              Mr Natty\n            <\/label>\n          <\/li>\n          <li>\n            <input type=\"checkbox\" name=\"suavecito\" id=\"filter-suavecito\" checked>\n            <label for=\"filter-suavecito\">\n              Suavecito\n            <\/label>\n          <\/li>\n        <\/ul>\n      <\/fieldset>\n      <fieldset>\n        <legend>\u0413\u0440\u0443\u043f\u043f\u044b \u0442\u043e\u0432\u0430\u0440\u043e\u0432:<\/legend>\n        <ul>\n          <li>\n            <input type=\"radio\" name=\"product-group\" value=\"shaving\" id=\"filter-shave\">\n            <label for=\"filter-shave\">\n              \u0411\u0440\u0438\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u043d\u043e\u0441\u0442\u0438\n            <\/label>\n          <\/li>\n          <li>\n            <input type=\"radio\" name=\"product-group\" value=\"hair-care\" id=\"filter-care\" checked>\n            <label for=\"filter-care\">\n              \u0421\u0440\u0435\u0434\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0443\u0445\u043e\u0434\u0430\n            <\/label>\n          <\/li>\n          <li>\n            <input type=\"radio\" name=\"product-group\" value=\"accessories\" id=\"filter-accessories\">\n            <label for=\"filter-accessories\">\n              \u0410\u043a\u0441\u0435\u0441\u0441\u0443\u0430\u0440\u044b\n            <\/label>\n          <\/li>\n        <\/ul>\n      <\/fieldset>\n      <button type=\"submit\">\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u044c<\/button>\n    <\/form>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 10,
+                            "column": 0
+                        },
+                        "end": {
+                            "row": 32,
+                            "column": 17
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        }
+    ]
+}

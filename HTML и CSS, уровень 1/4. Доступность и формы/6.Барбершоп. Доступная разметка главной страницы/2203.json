@@ -1,0 +1,491 @@
+{
+    "v": 0.1,
+    "active_step": 19,
+    "name": "",
+    "preview_type": 0,
+    "steps": [
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <header class=\"main-header\">\n      <nav class=\"main-navigation\">\n        <a class=\"main-header-logo\">\n          <img src=\"img\/index-logo.svg\" width=\"368\" height=\"153\" alt=\"\u041b\u043e\u0433\u043e\u0442\u0438\u043f \u0431\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f\u0430 \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb\">\n        <\/a>\n        <ul class=\"site-navigation\">\n          <li><a href=\"info.html\">\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f<\/a><\/li>\n          <li><a href=\"news.html\">\u041d\u043e\u0432\u043e\u0441\u0442\u0438<\/a><\/li>\n          <li><a href=\"price.html\">\u041f\u0440\u0430\u0439\u0441-\u043b\u0438\u0441\u0442<\/a><\/li>\n          <li><a href=\"catalog.html\">\u041c\u0430\u0433\u0430\u0437\u0438\u043d<\/a><\/li>\n          <li><a href=\"contacts.html\">\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u044b<\/a><\/li>\n        <\/ul>\n        <ul class=\"user-navigation\">\n          <li class=\"login-link\">\u0412\u0445\u043e\u0434<\/li>\n        <\/ul>\n      <\/nav>\n    <\/header>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 0,
+                            "column": 0
+                        },
+                        "end": {
+                            "row": 0,
+                            "column": 0
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <header class=\"main-header\">\n      <nav class=\"main-navigation\">\n        <a class=\"main-header-logo\">\n          <img src=\"img\/index-logo.svg\" width=\"368\" height=\"153\" alt=\"\u041b\u043e\u0433\u043e\u0442\u0438\u043f \u0431\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f\u0430 \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb\">\n        <\/a>\n        <ul class=\"site-navigation\">\n          <li><a href=\"info.html\">\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f<\/a><\/li>\n          <li><a href=\"news.html\">\u041d\u043e\u0432\u043e\u0441\u0442\u0438<\/a><\/li>\n          <li><a href=\"price.html\">\u041f\u0440\u0430\u0439\u0441-\u043b\u0438\u0441\u0442<\/a><\/li>\n          <li><a href=\"catalog.html\">\u041c\u0430\u0433\u0430\u0437\u0438\u043d<\/a><\/li>\n          <li><a href=\"contacts.html\">\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u044b<\/a><\/li>\n        <\/ul>\n        <ul class=\"user-navigation\">\n          <li>\n            <a class=\"login-link\" href=\"login.html\">\n              \u0412\u0445\u043e\u0434\n            <\/a>\n          <\/li>\n        <\/ul>\n      <\/nav>\n    <\/header>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 22,
+                            "column": 14
+                        },
+                        "end": {
+                            "row": 22,
+                            "column": 18
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"gallery\">\n        <h2>\u0424\u043e\u0442\u043e\u0433\u0430\u043b\u0435\u0440\u0435\u044f<\/h2>\n        <figure class=\"gallery-content\">\n          <a href=\"#\">\n            <img src=\"img\/studio.jpg\" width=\"286\" height=\"164\" alt=\"\u0418\u043d\u0442\u0435\u0440\u044c\u0435\u0440\">\n           <\/a>\n        <\/figure>\n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 9,
+                            "column": 12
+                        },
+                        "end": {
+                            "row": 9,
+                            "column": 23
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"gallery\">\n        <h2>\u0424\u043e\u0442\u043e\u0433\u0430\u043b\u0435\u0440\u0435\u044f<\/h2>\n        <figure class=\"gallery-content\">\n          <a href=\"#\">\n            <img src=\"img\/studio.jpg\" width=\"286\" height=\"164\" alt=\"\u0418\u043d\u0442\u0435\u0440\u044c\u0435\u0440\">\n           <\/a>\n        <\/figure>\n        <button class=\"button gallery-button gallery-button-back\" type=\"button\">\u041d\u0430\u0437\u0430\u0434<\/button>\n        <button class=\"button gallery-button gallery-button-next\" type=\"button\">\u0412\u043f\u0435\u0440\u0435\u0434<\/button>\n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 15,
+                            "column": 80
+                        },
+                        "end": {
+                            "row": 15,
+                            "column": 85
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"appointment\">\n        <h2>\u0417\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f<\/h2>\n        <p class=\"appointment-info\">\u0423\u043a\u0430\u0436\u0438\u0442\u0435 \u0436\u0435\u043b\u0430\u0435\u043c\u0443\u044e \u0434\u0430\u0442\u0443 \u0438 \u0432\u0440\u0435\u043c\u044f \u0438 \u043c\u044b \u0441\u0432\u044f\u0436\u0435\u043c\u0441\u044f \u0441 \u0432\u0430\u043c\u0438 \u0434\u043b\u044f \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u044f \u0431\u0440\u043e\u043d\u0438<\/p>\n        <!-- \u0417\u0434\u0435\u0441\u044c \u0431\u0443\u0434\u0435\u0442 \u0444\u043e\u0440\u043c\u0430 -->\n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 9,
+                            "column": 12
+                        },
+                        "end": {
+                            "row": 9,
+                            "column": 22
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"appointment\">\n        <h2>\u0417\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f<\/h2>\n        <p class=\"appointment-info\">\u0423\u043a\u0430\u0436\u0438\u0442\u0435 \u0436\u0435\u043b\u0430\u0435\u043c\u0443\u044e \u0434\u0430\u0442\u0443 \u0438 \u0432\u0440\u0435\u043c\u044f \u0438 \u043c\u044b \u0441\u0432\u044f\u0436\u0435\u043c\u0441\u044f \u0441 \u0432\u0430\u043c\u0438 \u0434\u043b\u044f \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u044f \u0431\u0440\u043e\u043d\u0438<\/p>\n        <form class=\"appointment-form\" action=\"https:\/\/echo.htmlacademy.ru\" method=\"post\">\n          \n        <\/form> \n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 11,
+                            "column": 9
+                        },
+                        "end": {
+                            "row": 11,
+                            "column": 13
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"appointment\">\n        <h2>\u0417\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f<\/h2>\n        <p class=\"appointment-info\">\u0423\u043a\u0430\u0436\u0438\u0442\u0435 \u0436\u0435\u043b\u0430\u0435\u043c\u0443\u044e \u0434\u0430\u0442\u0443 \u0438 \u0432\u0440\u0435\u043c\u044f \u0438 \u043c\u044b \u0441\u0432\u044f\u0436\u0435\u043c\u0441\u044f \u0441 \u0432\u0430\u043c\u0438 \u0434\u043b\u044f \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u044f \u0431\u0440\u043e\u043d\u0438<\/p>\n        <form class=\"appointment-form\" action=\"https:\/\/echo.htmlacademy.ru\" method=\"post\">\n          <input type=\"text\" name=\"date\" value=\"\" placeholder=\"08.10.2017\">\n          <input type=\"text\" name=\"time\" value=\"\" placeholder=\"10:00\">\n          <input type=\"text\" name=\"name\" value=\"\" placeholder=\"\u0411\u043e\u0440\u043e\u0434\u0430\">\n          <input type=\"tel\" name=\"phone\" value=\"\" placeholder=\"+7 123 456-78-90\">\n        <\/form> \n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 12,
+                            "column": 10
+                        },
+                        "end": {
+                            "row": 12,
+                            "column": 75
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"appointment\">\n        <h2>\u0417\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f<\/h2>\n        <p class=\"appointment-info\">\u0423\u043a\u0430\u0436\u0438\u0442\u0435 \u0436\u0435\u043b\u0430\u0435\u043c\u0443\u044e \u0434\u0430\u0442\u0443 \u0438 \u0432\u0440\u0435\u043c\u044f \u0438 \u043c\u044b \u0441\u0432\u044f\u0436\u0435\u043c\u0441\u044f \u0441 \u0432\u0430\u043c\u0438 \u0434\u043b\u044f \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u044f \u0431\u0440\u043e\u043d\u0438<\/p>\n        <form class=\"appointment-form\" action=\"https:\/\/echo.htmlacademy.ru\" method=\"post\">\n          <p class=\"appointment-item\">\n            \u0414\u0430\u0442\u0430\n            <input type=\"text\" name=\"date\" value=\"\" placeholder=\"08.10.2017\">\n          <\/p>\n          <p class=\"appointment-item\">\n            \u0412\u0440\u0435\u043c\u044f\n            <input type=\"text\" name=\"time\" value=\"\" placeholder=\"10:00\">\n          <\/p>\n          <p class=\"appointment-item\">\n            \u0412\u0430\u0448\u0435 \u0438\u043c\u044f\n            <input type=\"text\" name=\"name\" value=\"\" placeholder=\"\u0411\u043e\u0440\u043e\u0434\u0430\">\n          <\/p>\n          <p class=\"appointment-item\">\n            \u0422\u0435\u043b\u0435\u0444\u043e\u043d\n            <input type=\"tel\" name=\"phone\" value=\"\" placeholder=\"+7 123 456-78-90\">\n          <\/p>\n        <\/form> \n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 13,
+                            "column": 12
+                        },
+                        "end": {
+                            "row": 13,
+                            "column": 16
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"appointment\">\n        <h2>\u0417\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f<\/h2>\n        <p class=\"appointment-info\">\u0423\u043a\u0430\u0436\u0438\u0442\u0435 \u0436\u0435\u043b\u0430\u0435\u043c\u0443\u044e \u0434\u0430\u0442\u0443 \u0438 \u0432\u0440\u0435\u043c\u044f \u0438 \u043c\u044b \u0441\u0432\u044f\u0436\u0435\u043c\u0441\u044f \u0441 \u0432\u0430\u043c\u0438 \u0434\u043b\u044f \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u044f \u0431\u0440\u043e\u043d\u0438<\/p>\n        <form class=\"appointment-form\" action=\"https:\/\/echo.htmlacademy.ru\" method=\"post\">\n          <p class=\"appointment-item\">\n            <label for=\"appointment-date\">\u0414\u0430\u0442\u0430<\/label>\n            <input id=\"appointment-date\" type=\"text\" name=\"date\" value=\"\" placeholder=\"08.10.2017\">\n          <\/p>\n          <p class=\"appointment-item\">\n            <label for=\"appointment-time\">\u0412\u0440\u0435\u043c\u044f<\/label>\n            <input id=\"appointment-time\" type=\"text\" name=\"time\" value=\"\" placeholder=\"10:00\">\n          <\/p>\n          <p class=\"appointment-item\">\n            <label for=\"appointment-name\">\u0412\u0430\u0448\u0435 \u0438\u043c\u044f<\/label>\n            <input id=\"appointment-name\" type=\"text\" name=\"name\" value=\"\" placeholder=\"\u0411\u043e\u0440\u043e\u0434\u0430\">\n          <\/p>\n          <p class=\"appointment-item\">\n            <label for=\"appointment-phone\">\u0422\u0435\u043b\u0435\u0444\u043e\u043d<\/label>\n            <input id=\"appointment-phone\" type=\"tel\" name=\"phone\" value=\"\" placeholder=\"+7 123 456-78-90\">\n          <\/p>\n        <\/form> \n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 13,
+                            "column": 42
+                        },
+                        "end": {
+                            "row": 13,
+                            "column": 46
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"appointment\">\n        <h2>\u0417\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f<\/h2>\n        <p class=\"appointment-info\">\u0423\u043a\u0430\u0436\u0438\u0442\u0435 \u0436\u0435\u043b\u0430\u0435\u043c\u0443\u044e \u0434\u0430\u0442\u0443 \u0438 \u0432\u0440\u0435\u043c\u044f \u0438 \u043c\u044b \u0441\u0432\u044f\u0436\u0435\u043c\u0441\u044f \u0441 \u0432\u0430\u043c\u0438 \u0434\u043b\u044f \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u044f \u0431\u0440\u043e\u043d\u0438<\/p>\n        <form class=\"appointment-form\" action=\"https:\/\/echo.htmlacademy.ru\" method=\"post\">\n          <p class=\"appointment-item\">\n            <label for=\"appointment-date\">\u0414\u0430\u0442\u0430<\/label>\n            <input id=\"appointment-date\" type=\"text\" name=\"date\" value=\"\" placeholder=\"08.10.2017\">\n          <\/p>\n          <p class=\"appointment-item\">\n            <label for=\"appointment-time\">\u0412\u0440\u0435\u043c\u044f<\/label>\n            <input id=\"appointment-time\" type=\"text\" name=\"time\" value=\"\" placeholder=\"10:00\">\n          <\/p>\n          <p class=\"appointment-item\">\n            <label for=\"appointment-name\">\u0412\u0430\u0448\u0435 \u0438\u043c\u044f<\/label>\n            <input id=\"appointment-name\" type=\"text\" name=\"name\" value=\"\" placeholder=\"\u0411\u043e\u0440\u043e\u0434\u0430\">\n          <\/p>\n          <p class=\"appointment-item\">\n            <label for=\"appointment-phone\">\u0422\u0435\u043b\u0435\u0444\u043e\u043d<\/label>\n            <input id=\"appointment-phone\" type=\"tel\" name=\"phone\" value=\"\" placeholder=\"+7 123 456-78-90\">\n          <\/p>\n          <button class=\"button\" type=\"submit\">\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c<\/button>\n        <\/form> \n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 28,
+                            "column": 47
+                        },
+                        "end": {
+                            "row": 28,
+                            "column": 56
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"modal modal-login\">\n        <h2>\u041b\u0438\u0447\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442<\/h2>\n        <p>\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0432\u043e\u0439 \u043b\u043e\u0433\u0438\u043d \u0438\u00a0\u043f\u0430\u0440\u043e\u043b\u044c.<\/p>\n        <!-- \u0417\u0434\u0435\u0441\u044c \u0431\u0443\u0434\u0435\u0442 \u0444\u043e\u0440\u043c\u0430 -->\n        <button class=\"modal-close\" type=\"button\">\n          \u0417\u0430\u043a\u0440\u044b\u0442\u044c\n        <\/button>\n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 9,
+                            "column": 12
+                        },
+                        "end": {
+                            "row": 9,
+                            "column": 26
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"modal modal-login\">\n        <h2>\u041b\u0438\u0447\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442<\/h2>\n        <p>\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0432\u043e\u0439 \u043b\u043e\u0433\u0438\u043d \u0438\u00a0\u043f\u0430\u0440\u043e\u043b\u044c.<\/p>\n        <form class=\"login-form\" action=\"https:\/\/echo.htmlacademy.ru\" method=\"post\">\n        \n        <\/form>\n        <button class=\"modal-close\" type=\"button\">\n          \u0417\u0430\u043a\u0440\u044b\u0442\u044c\n        <\/button>\n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 11,
+                            "column": 9
+                        },
+                        "end": {
+                            "row": 11,
+                            "column": 13
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"modal modal-login\">\n        <h2>\u041b\u0438\u0447\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442<\/h2>\n        <p>\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0432\u043e\u0439 \u043b\u043e\u0433\u0438\u043d \u0438\u00a0\u043f\u0430\u0440\u043e\u043b\u044c.<\/p>\n        <form class=\"login-form\" action=\"https:\/\/echo.htmlacademy.ru\" method=\"post\">\n          <p>\n            <input class=\"login-icon-user\" type=\"text\" name=\"login\" placeholder=\"\u041b\u043e\u0433\u0438\u043d\">\n          <\/p>\n          <p>\n            <input class=\"login-icon-password\" type=\"password\" name=\"password\" placeholder=\"\u041f\u0430\u0440\u043e\u043b\u044c\">\n          <\/p>\n        <\/form>\n        <button class=\"modal-close\" type=\"button\">\n          \u0417\u0430\u043a\u0440\u044b\u0442\u044c\n        <\/button>\n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 13,
+                            "column": 12
+                        },
+                        "end": {
+                            "row": 13,
+                            "column": 88
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"modal modal-login\">\n        <h2>\u041b\u0438\u0447\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442<\/h2>\n        <p>\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0432\u043e\u0439 \u043b\u043e\u0433\u0438\u043d \u0438\u00a0\u043f\u0430\u0440\u043e\u043b\u044c.<\/p>\n        <form class=\"login-form\" action=\"https:\/\/echo.htmlacademy.ru\" method=\"post\">\n          <p>\n            <input class=\"login-icon-user\" type=\"text\" name=\"login\" placeholder=\"\u041b\u043e\u0433\u0438\u043d\">\n          <\/p>\n          <p>\n            <input class=\"login-icon-password\" type=\"password\" name=\"password\" placeholder=\"\u041f\u0430\u0440\u043e\u043b\u044c\">\n          <\/p>\n          <p class=\"login-password-info\">\n            <input type=\"checkbox\" name=\"remember\">\n            \u0417\u0430\u043f\u043e\u043c\u043d\u0438\u0442\u0435 \u043c\u0435\u043d\u044f\n            <a class=\"restore\" href=\"#\">\u042f \u0437\u0430\u0431\u044b\u043b \u043f\u0430\u0440\u043e\u043b\u044c!<\/a>\n          <\/p>\n        <\/form>\n        <button class=\"modal-close\" type=\"button\">\n          \u0417\u0430\u043a\u0440\u044b\u0442\u044c\n        <\/button>\n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 20,
+                            "column": 12
+                        },
+                        "end": {
+                            "row": 20,
+                            "column": 26
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"modal modal-login\">\n        <h2>\u041b\u0438\u0447\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442<\/h2>\n        <p>\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0432\u043e\u0439 \u043b\u043e\u0433\u0438\u043d \u0438\u00a0\u043f\u0430\u0440\u043e\u043b\u044c.<\/p>\n        <form class=\"login-form\" action=\"https:\/\/echo.htmlacademy.ru\" method=\"post\">\n          <p>\n            <input class=\"login-icon-user\" type=\"text\" name=\"login\" placeholder=\"\u041b\u043e\u0433\u0438\u043d\">\n          <\/p>\n          <p>\n            <input class=\"login-icon-password\" type=\"password\" name=\"password\" placeholder=\"\u041f\u0430\u0440\u043e\u043b\u044c\">\n          <\/p>\n          <p class=\"login-password-info\">\n            <input type=\"checkbox\" name=\"remember\">\n            \u0417\u0430\u043f\u043e\u043c\u043d\u0438\u0442\u0435 \u043c\u0435\u043d\u044f\n            <a class=\"restore\" href=\"#\">\u042f \u0437\u0430\u0431\u044b\u043b \u043f\u0430\u0440\u043e\u043b\u044c!<\/a>\n          <\/p>\n          <button class=\"button\" type=\"submit\">\n            \u0412\u043e\u0439\u0442\u0438\n          <\/button>\n        <\/form>\n        <button class=\"modal-close\" type=\"button\">\n          \u0417\u0430\u043a\u0440\u044b\u0442\u044c\n        <\/button>\n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 24,
+                            "column": 12
+                        },
+                        "end": {
+                            "row": 24,
+                            "column": 17
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"modal modal-login\">\n        <h2>\u041b\u0438\u0447\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442<\/h2>\n        <p>\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0432\u043e\u0439 \u043b\u043e\u0433\u0438\u043d \u0438\u00a0\u043f\u0430\u0440\u043e\u043b\u044c.<\/p>\n        <form class=\"login-form\" action=\"https:\/\/echo.htmlacademy.ru\" method=\"post\">\n          <p>\n            <label class=\"visually-hidden\" for=\"user-login\">\u041b\u043e\u0433\u0438\u043d<\/label>\n            <input class=\"login-icon-user\" id=\"user-login\" type=\"text\" name=\"login\" placeholder=\"\u041b\u043e\u0433\u0438\u043d\">\n          <\/p>\n          <p>\n            <label class=\"visually-hidden\" for=\"user-password\">\u041f\u0430\u0440\u043e\u043b\u044c<\/label>\n            <input class=\"login-icon-password\" id=\"user-password\" type=\"password\" name=\"password\" placeholder=\"\u041f\u0430\u0440\u043e\u043b\u044c\">\n          <\/p>\n          <p class=\"login-password-info\">\n            <input type=\"checkbox\" name=\"remember\">\n            \u0417\u0430\u043f\u043e\u043c\u043d\u0438\u0442\u0435 \u043c\u0435\u043d\u044f\n            <a class=\"restore\" href=\"#\">\u042f \u0437\u0430\u0431\u044b\u043b \u043f\u0430\u0440\u043e\u043b\u044c!<\/a>\n          <\/p>\n          <button class=\"button\" type=\"submit\">\n            \u0412\u043e\u0439\u0442\u0438\n          <\/button>\n        <\/form>\n        <button class=\"modal-close\" type=\"button\">\n          \u0417\u0430\u043a\u0440\u044b\u0442\u044c\n        <\/button>\n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 13,
+                            "column": 60
+                        },
+                        "end": {
+                            "row": 13,
+                            "column": 65
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"modal modal-login\">\n        <h2>\u041b\u0438\u0447\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442<\/h2>\n        <p>\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0432\u043e\u0439 \u043b\u043e\u0433\u0438\u043d \u0438\u00a0\u043f\u0430\u0440\u043e\u043b\u044c.<\/p>\n        <form class=\"login-form\" action=\"https:\/\/echo.htmlacademy.ru\" method=\"post\">\n          <p>\n            <label class=\"visually-hidden\" for=\"user-login\">\u041b\u043e\u0433\u0438\u043d<\/label>\n            <input class=\"login-icon-user\" id=\"user-login\" type=\"text\" name=\"login\" placeholder=\"\u041b\u043e\u0433\u0438\u043d\">\n          <\/p>\n          <p>\n            <label class=\"visually-hidden\" for=\"user-password\">\u041f\u0430\u0440\u043e\u043b\u044c<\/label>\n            <input class=\"login-icon-password\" id=\"user-password\" type=\"password\" name=\"password\" placeholder=\"\u041f\u0430\u0440\u043e\u043b\u044c\">\n          <\/p>\n          <p class=\"login-password-info\">\n            <input type=\"checkbox\" name=\"remember\" id=\"login-password-info\">\n            <label for=\"login-password-info\">\n              \u0417\u0430\u043f\u043e\u043c\u043d\u0438\u0442\u0435 \u043c\u0435\u043d\u044f\n            <\/label>\n            <a class=\"restore\" href=\"#\">\u042f \u0437\u0430\u0431\u044b\u043b \u043f\u0430\u0440\u043e\u043b\u044c!<\/a>\n          <\/p>\n          <button class=\"button\" type=\"submit\">\n            \u0412\u043e\u0439\u0442\u0438\n          <\/button>\n        <\/form>\n        <button class=\"modal-close\" type=\"button\">\n          \u0417\u0430\u043a\u0440\u044b\u0442\u044c\n        <\/button>\n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 23,
+                            "column": 14
+                        },
+                        "end": {
+                            "row": 23,
+                            "column": 28
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"modal modal-login\">\n        <h2>\u041b\u0438\u0447\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442<\/h2>\n        <p>\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0432\u043e\u0439 \u043b\u043e\u0433\u0438\u043d \u0438\u00a0\u043f\u0430\u0440\u043e\u043b\u044c.<\/p>\n        <form class=\"login-form\" action=\"https:\/\/echo.htmlacademy.ru\" method=\"post\">\n          <p>\n            <label class=\"visually-hidden\" for=\"user-login\">\u041b\u043e\u0433\u0438\u043d<\/label>\n            <input class=\"login-icon-user\" id=\"user-login\" type=\"text\" name=\"login\" placeholder=\"\u041b\u043e\u0433\u0438\u043d\">\n          <\/p>\n          <p>\n            <label class=\"visually-hidden\" for=\"user-password\">\u041f\u0430\u0440\u043e\u043b\u044c<\/label>\n            <input class=\"login-icon-password\" id=\"user-password\" type=\"password\" name=\"password\" placeholder=\"\u041f\u0430\u0440\u043e\u043b\u044c\">\n          <\/p>\n          <p class=\"login-password-info\">\n            <label class=\"login-checkbox\">\n              <input type=\"checkbox\" name=\"remember\">\n              \u0417\u0430\u043f\u043e\u043c\u043d\u0438\u0442\u0435 \u043c\u0435\u043d\u044f\n            <\/label>\n            <a class=\"restore\" href=\"#\">\u042f \u0437\u0430\u0431\u044b\u043b \u043f\u0430\u0440\u043e\u043b\u044c!<\/a>\n          <\/p>\n          <button class=\"button\" type=\"submit\">\n            \u0412\u043e\u0439\u0442\u0438\n          <\/button>\n        <\/form>\n        <button class=\"modal-close\" type=\"button\">\n          \u0417\u0430\u043a\u0440\u044b\u0442\u044c\n        <\/button>\n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 23,
+                            "column": 14
+                        },
+                        "end": {
+                            "row": 23,
+                            "column": 28
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"modal modal-map\">\n        <h2 class=\"visually-hidden\">\n          \u041a\u0430\u043a \u0434\u043e \u043d\u0430\u0441 \u0434\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f\n        <\/h2>\n        <button class=\"modal-close\" type=\"button\">\n          \u0417\u0430\u043a\u0440\u044b\u0442\u044c\n        <\/button>\n    <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 1,
+                            "column": 5
+                        },
+                        "end": {
+                            "row": 1,
+                            "column": 5
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <main class=\"container\">\n      <section class=\"modal modal-map\">\n        <h2 class=\"visually-hidden\">\n          \u041a\u0430\u043a \u0434\u043e \u043d\u0430\u0441 \u0434\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f\n        <\/h2>\n        <p>\n          <img src=\"img\/map.jpg\" width=\"780\" height=\"560\" alt=\"\u041e\u0444\u0438\u0441 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u043f\u043e \u0430\u0434\u0440\u0435\u0441\u0443 \u0443\u043b. \u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041a\u043e\u043d\u044e\u0448\u0435\u043d\u043d\u0430\u044f 19\/8, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\">\n        <\/p>\n        <button class=\"modal-close\" type=\"button\">\n          \u0417\u0430\u043a\u0440\u044b\u0442\u044c\n        <\/button>\n    <\/section>\n    <\/main>\n  <\/body>\n<\/html>\n"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 13,
+                            "column": 63
+                        },
+                        "end": {
+                            "row": 13,
+                            "column": 131
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        },
+        {
+            "active_editor": 0,
+            "description": "<p><\/p>",
+            "editors": {
+                "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n  <head>\n    <meta charset=\"utf-8\">\n    <title>\u0411\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb<\/title>\n  <\/head>\n  <body>\n    <header class=\"main-header\">\n      <nav class=\"main-navigation\">\n        <a class=\"main-header-logo\">\n          <img src=\"https:\/\/up.htmlacademy.ru\/assets\/htmlcss\/demo\/htmlcss18\/availability\/img\/index-logo.svg\" width=\"368\" height=\"153\" alt=\"\u041b\u043e\u0433\u043e\u0442\u0438\u043f \u0431\u0430\u0440\u0431\u0435\u0440\u0448\u043e\u043f\u0430 \u00ab\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0441\u043a\u0438\u0439\u00bb\">\n        <\/a>\n        <ul class=\"site-navigation\">\n          <li><a href=\"info.html\">\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f<\/a><\/li>\n          <li><a href=\"news.html\">\u041d\u043e\u0432\u043e\u0441\u0442\u0438<\/a><\/li>\n          <li><a href=\"price.html\">\u041f\u0440\u0430\u0439\u0441-\u043b\u0438\u0441\u0442<\/a><\/li>\n          <li><a href=\"catalog.html\">\u041c\u0430\u0433\u0430\u0437\u0438\u043d<\/a><\/li>\n          <li><a href=\"contacts.html\">\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u044b<\/a><\/li>\n        <\/ul>\n        <ul class=\"user-navigation\">\n          <li class=\"login-link\">\n            <a class=\"login-link\" href=\"login.html\">\n              \u0412\u0445\u043e\u0434\n            <\/a>\n          <\/li>\n        <\/ul>\n      <\/nav>\n    <\/header>\n    <main class=\"container\">\n      <section class=\"gallery\">\n        <h2>\u0424\u043e\u0442\u043e\u0433\u0430\u043b\u0435\u0440\u0435\u044f<\/h2>\n        <figure class=\"gallery-content\">\n          <a href=\"#\">\n            <img src=\"https:\/\/up.htmlacademy.ru\/assets\/htmlcss\/demo\/htmlcss18\/availability\/img\/studio.jpg\" width=\"286\" height=\"164\" alt=\"\u0418\u043d\u0442\u0435\u0440\u044c\u0435\u0440\">\n           <\/a>\n        <\/figure>\n        <button class=\"button gallery-button gallery-button-back\" type=\"button\">\u041d\u0430\u0437\u0430\u0434<\/button>\n        <button class=\"button gallery-button gallery-button-next\" type=\"button\">\u0412\u043f\u0435\u0440\u0435\u0434<\/button>\n      <\/section>\n      <section class=\"appointment\">\n        <h2>\u0417\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f<\/h2>\n        <p class=\"appointment-info\">\u0423\u043a\u0430\u0436\u0438\u0442\u0435 \u0436\u0435\u043b\u0430\u0435\u043c\u0443\u044e \u0434\u0430\u0442\u0443 \u0438 \u0432\u0440\u0435\u043c\u044f \u0438 \u043c\u044b \u0441\u0432\u044f\u0436\u0435\u043c\u0441\u044f \u0441 \u0432\u0430\u043c\u0438 \u0434\u043b\u044f \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u044f \u0431\u0440\u043e\u043d\u0438<\/p>\n        <form class=\"appointment-form\" action=\"https:\/\/echo.htmlacademy.ru\" method=\"post\">\n          <p class=\"appointment-item\">\n            <label for=\"appointment-date\">\u0414\u0430\u0442\u0430<\/label>\n            <input id=\"appointment-date\" type=\"text\" name=\"date\" value=\"\" placeholder=\"08.10.2017\">\n          <\/p>\n          <p class=\"appointment-item\">\n            <label for=\"appointment-time\">\u0412\u0440\u0435\u043c\u044f<\/label>\n            <input id=\"appointment-time\" type=\"text\" name=\"time\" value=\"\" placeholder=\"10:00\">\n          <\/p>\n          <p class=\"appointment-item\">\n            <label for=\"appointment-name\">\u0412\u0430\u0448\u0435 \u0438\u043c\u044f<\/label>\n            <input id=\"appointment-name\" type=\"text\" name=\"name\" value=\"\" placeholder=\"\u0411\u043e\u0440\u043e\u0434\u0430\">\n          <\/p>\n          <p class=\"appointment-item\">\n            <label for=\"appointment-phone\">\u0422\u0435\u043b\u0435\u0444\u043e\u043d<\/label>\n            <input id=\"appointment-phone\" type=\"tel\" name=\"phone\" value=\"\" placeholder=\"+7 123 456-78-90\">\n          <\/p>\n          <button class=\"button\" type=\"submit\">\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c<\/button>\n        <\/form> \n      <\/section>\n      <section class=\"modal modal-login\">\n        <h2>\u041b\u0438\u0447\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442<\/h2>\n        <p>\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0432\u043e\u0439 \u043b\u043e\u0433\u0438\u043d \u0438\u00a0\u043f\u0430\u0440\u043e\u043b\u044c.<\/p>\n        <form class=\"login-form\" action=\"https:\/\/echo.htmlacademy.ru\" method=\"post\">\n          <p>\n            <label class=\"visually-hidden\" for=\"user-login\">\u041b\u043e\u0433\u0438\u043d<\/label>\n            <input class=\"login-icon-user\" id=\"user-login\" type=\"text\" name=\"login\" placeholder=\"\u041b\u043e\u0433\u0438\u043d\">\n          <\/p>\n          <p>\n            <label class=\"visually-hidden\" for=\"user-password\">\u041f\u0430\u0440\u043e\u043b\u044c<\/label>\n            <input class=\"login-icon-password\" id=\"user-password\" type=\"password\" name=\"password\" placeholder=\"\u041f\u0430\u0440\u043e\u043b\u044c\">\n          <\/p>\n          <p class=\"login-password-info\">\n            <label class=\"login-checkbox\">\n              <input type=\"checkbox\" name=\"remember\">\n              \u0417\u0430\u043f\u043e\u043c\u043d\u0438\u0442\u0435 \u043c\u0435\u043d\u044f\n            <\/label>\n            <a class=\"restore\" href=\"#\">\u042f \u0437\u0430\u0431\u044b\u043b \u043f\u0430\u0440\u043e\u043b\u044c!<\/a>\n          <\/p>\n          <button class=\"button\" type=\"submit\">\n            \u0412\u043e\u0439\u0442\u0438\n          <\/button>\n        <\/form>\n        <button class=\"modal-close\" type=\"button\">\n          \u0417\u0430\u043a\u0440\u044b\u0442\u044c\n        <\/button>\n      <\/section>\n      <section class=\"modal modal-map\">\n        <h2 class=\"visually-hidden\">\n          \u041a\u0430\u043a \u0434\u043e \u043d\u0430\u0441 \u0434\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f\n        <\/h2>\n        <p>\n          <img src=\"img\/map.jpg\" width=\"780\" height=\"560\" alt=\"\u041e\u0444\u0438\u0441 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u043f\u043e \u0430\u0434\u0440\u0435\u0441\u0443 \u0443\u043b. \u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041a\u043e\u043d\u044e\u0448\u0435\u043d\u043d\u0430\u044f 19\/8, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\">\n        <\/p>\n        <button class=\"modal-close\" type=\"button\">\n          \u0417\u0430\u043a\u0440\u044b\u0442\u044c\n        <\/button>\n      <\/section>\n    <\/main>\n  <\/body>\n<\/html>"
+            },
+            "scale": "100%",
+            "selections": {
+                "html": [
+                    {
+                        "start": {
+                            "row": 0,
+                            "column": 0
+                        },
+                        "end": {
+                            "row": 0,
+                            "column": 0
+                        }
+                    }
+                ]
+            },
+            "zoom": 1
+        }
+    ]
+}

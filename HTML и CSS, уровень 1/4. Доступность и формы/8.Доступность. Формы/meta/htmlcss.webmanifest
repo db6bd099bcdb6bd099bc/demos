@@ -1,0 +1,24 @@
+{
+	"name": "HTML Academy",
+	"short_name": "HTML Academy",
+	"lang": "ru",
+	"dir": "ltr",
+	"start_url": "/htmlcss",
+	"scope": "/htmlcss",
+	"display": "browser",
+	"orientation": "any",
+	"theme_color": "#f05a29",
+	"background_color": "#f05a29",
+	"icons": [{
+		"src": "/meta/htmlcss-favicon.ico",
+		"sizes": "16x16 32x32 64x64 128x128"
+	}, {
+		"src": "/meta/htmlcss-touch-icon.png",
+		"sizes": "350x350",
+		"type": "image/png"
+	}, {
+		"src": "/meta/favicon.svg",
+		"sizes": "any",
+		"type": "image/svg"
+	}]
+}
